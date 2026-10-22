@@ -2,7 +2,7 @@
 
 **Data engineer / analyst** · Business Information Systems graduate · North Macedonia
 
-I build data systems that turn messy, unstructured sources into reliable, structured data. At **Pova**, a construction procurement platform, I spent about a year on data architecture: schema design, SKU consistency, a Snowflake migration, and Python/SQL validation.
+I build data systems that turn messy, unstructured sources into reliable, structured data. At a construction procurement platform, I spent about a year on data architecture: schema design, SKU consistency, a Snowflake migration, and Python/SQL validation.
 
 ## Technical skills
 
@@ -19,7 +19,7 @@ I build data systems that turn messy, unstructured sources into reliable, struct
 
 ## Featured project
 
-### [LRCR: Local Regulatory Change Radar](https://github.com/Nikola-Nedelkovski/lrcr)
+### [LRCR](https://github.com/Nikola-Nedelkovski/lrcr)
 
 An asynchronous Python backend that monitors official public-sector publications, identifies regulatory changes, and checks whether the documents they reference are publicly available. When a document can't be found online, it drafts a Freedom of Information request for human review.
 
@@ -40,4 +40,4 @@ An asynchronous Python backend that monitors official public-sector publications
 
 ## Contact
 
-[GitHub](https://github.com/Nikola-Nedelkovski) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · your.email@example.com
+[GitHub](https://github.com/Nikola-Nedelkovski) · [LinkedIn] (www.linkedin.com/in/nikola-nedelkovski047)
