@@ -19,6 +19,8 @@ I build data systems that turn messy, unstructured sources into reliable, struct
 
 ## Featured project
 
+I helped a construction procurement platform with schema design, SKU cleanup, and validation scripts in a short, unpaid project.
+
 ### [LRCR](https://github.com/Nikola-Nedelkovski/lrcr)
 
 An asynchronous Python backend that monitors official public-sector publications, identifies regulatory changes, and checks whether the documents they reference are publicly available. When a document can't be found online, it drafts a Freedom of Information request for human review.
