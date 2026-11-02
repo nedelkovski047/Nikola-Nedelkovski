@@ -31,8 +31,6 @@ identifies regulatory changes, and checks whether the documents they reference a
 publicly available. When a document can't be found online, it drafts a Freedom of
 Information request for human review.
 
-An asynchronous Python backend that monitors official public-sector publications, identifies regulatory changes, and checks whether the documents they reference are publicly available. When a document can't be found online, it drafts a Freedom of Information request for human review.
-
 **How it works**
 1. **Extraction.** A PDF is parsed and an LLM converts it into a validated, structured schema (Pydantic) of regulatory changes and the documents they reference.
 2. **Verification.** Async scrapers (aiohttp, BeautifulSoup, Playwright) search the relevant institutions' websites for each referenced document.
