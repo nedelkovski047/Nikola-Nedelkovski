@@ -2,7 +2,10 @@
 
 **Data engineer / analyst** · Business Information Systems graduate · North Macedonia
 
-I build data systems that turn messy, unstructured sources into reliable, structured data. At a construction procurement platform, I spent about a year on data architecture: schema design, SKU consistency, a Snowflake migration, and Python/SQL validation.
+I build data projects in Python and SQL, with Power BI for reporting. I like turning
+messy, unstructured sources into reliable, structured data.
+
+Currently looking for data engineer and data analyst roles.
 
 ## Technical skills
 
