@@ -24,7 +24,7 @@ Currently looking for data engineer and data analyst roles.
 
 I helped a construction procurement platform with schema design, SKU cleanup, and validation scripts in a short, unpaid project.
 
-### [LRCR]([https://github.com/nedelkovski047/lrcr])
+### [LRCR](https://github.com/nedelkovski047/lrcr)
 
 An asynchronous Python backend that monitors official public-sector publications,
 identifies regulatory changes, and checks whether the documents they reference are
